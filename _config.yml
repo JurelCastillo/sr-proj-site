@@ -1,13 +1,13 @@
 # Setup
-title:        Tops Product Locator
-tagline:      A mobile/web application to locate products in Tops Friendly Market stores
+title:        Intellireview 2.0
+tagline:      Update Intellireview to the new 2018 standard
 baseurl:      ""
 locale:       "en"
 
 # About/contact
 author:
-  name:       The Team
-  url:        topsproductlocator.se.rit.edu
+  name:       Django Translators
+  url:        ""
 
 # Gems
 plugins:
