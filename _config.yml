@@ -1,7 +1,7 @@
 # Setup
 title:        Intellireview 2.0
 tagline:      Update Intellireview to the new 2018 standard
-baseurl:      ""
+baseurl:      "~djtranslator"
 locale:       "en"
 
 # About/contact
