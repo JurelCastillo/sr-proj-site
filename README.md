@@ -2,7 +2,7 @@
 
 - Requires `Ruby >= 2` 
 - if you have never used ruby, you're going to need to install it from the website, then run 
-- `gem install builder`
+- `gem install bundler`
 - NOTE: Because we cannot run the 'gem' command, we cannot work on the website on the se machines
 - Then you run this to build the website
 - `$ bundle install`
